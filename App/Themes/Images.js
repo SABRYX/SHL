@@ -19,7 +19,12 @@ const images = {
   chevronRight: require('../Images/Icons/chevron-right.png'),
   hamburger: require('../Images/Icons/hamburger.png'),
   backButton: require('../Images/Icons/back-button.png'),
-  closeButton: require('../Images/Icons/close-button.png')
+  closeButton: require('../Images/Icons/close-button.png'),
+  loginBackground:require('../Images/Assets/loginBackground.png'),
+  loginLogo:require('../Images/Assets/loginLogo.png'),
+  SaudiFlag:require('../Images/Assets/SaudiFlag.png'),
+  USFlag:require('../Images/Assets/USFlag.png'),
+  IndiaFlag:require('../Images/Assets/IndiaFlag.png')
 }
 
 export default images

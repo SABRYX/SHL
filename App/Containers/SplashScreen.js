@@ -11,7 +11,7 @@ import styles from './Styles/SplashScreenStyle'
 class SplashScreen extends Component {
   componentDidMount(){
     const { navigate } = this.props.navigation;
-setTimeout(() => navigate("LoginScreen", {screen: "LoginScreen"}),4000);
+setTimeout(() => navigate("LoginScreen", {screen: "LoginScreen"}),40);
 
   }
   render () {
